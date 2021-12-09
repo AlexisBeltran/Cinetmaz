@@ -1,0 +1,18 @@
+C:\Users\jesus\source\repos\Cinetmaz\Common\bin\Debug\Common.dll
+C:\Users\jesus\source\repos\Cinetmaz\Common\bin\Debug\Common.pdb
+C:\Users\jesus\source\repos\Cinetmaz\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\jesus\source\repos\Cinetmaz\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Cinetmaz\Common\obj\Debug\Common.dll
+C:\Users\jesus\source\repos\Cinetmaz\Common\obj\Debug\Common.pdb
+C:\Users\jesus\Desktop\Cinetmaz\Common\bin\Debug\Common.dll
+C:\Users\jesus\Desktop\Cinetmaz\Common\bin\Debug\Common.pdb
+C:\Users\jesus\Desktop\Cinetmaz\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\Cinetmaz\Common\obj\Debug\Common.dll
+C:\Users\jesus\Desktop\Cinetmaz\Common\obj\Debug\Common.pdb
+C:\Users\jesus\Desktop\Cinetmaz\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\jesus\Desktop\Proyectos .NET\Cinetmaz\Common\bin\Debug\Common.dll
+C:\Users\jesus\Desktop\Proyectos .NET\Cinetmaz\Common\bin\Debug\Common.pdb
+C:\Users\jesus\Desktop\Proyectos .NET\Cinetmaz\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\jesus\Desktop\Proyectos .NET\Cinetmaz\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\Proyectos .NET\Cinetmaz\Common\obj\Debug\Common.dll
+C:\Users\jesus\Desktop\Proyectos .NET\Cinetmaz\Common\obj\Debug\Common.pdb
